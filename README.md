@@ -12,7 +12,7 @@
 
 * gcc
   ```sh
-  gcc -fno-stack-protector -z execstack -no-pie fic_test.c -o fic_test![image](https://github.com/lmichel9/asm64_reverseshell_PT_load/assets/119668314/9c8b9b8b-29bf-4ca6-8a49-f826e0bdd9c1)
+  gcc -fno-stack-protector -z execstack -no-pie fic_test.c -o fic_test
   ```
 
 ### 2. Compilation of the NASM Code
